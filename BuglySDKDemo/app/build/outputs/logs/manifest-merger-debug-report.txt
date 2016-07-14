@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:6:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:10:22-65
+application
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:14:9-60
+meta-data#com.tencent.rdm.uuid
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:21:2-104
+	android:value
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:21:49-101
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:21:13-48
+activity#com.tencent.bugly.demo.MainActivity
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:screenOrientation
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:22:19-69
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.0] /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.tencent.bugly:crashreport:2.1.7] /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.tencent.bugly/crashreport/2.1.7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.bugly:nativecrashreport:2.2.0] /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/build/intermediates/exploded-aar/com.tencent.bugly/nativecrashreport/2.2.0/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mazhen/Downloads/Bugly_v2/BuglySDKDemo/app/src/main/AndroidManifest.xml
