@@ -1,2 +1,2 @@
-# BuglyDemo
-buglydemo
+# dev demo 
+dev-demo
